@@ -1,17 +1,10 @@
 True | True
-True | false
-false | True
-True | false
-false | True
-false | false
-True | false
 True | True
-
-False | False
-False | true
-true | False
-False | true
-true | False
-true | true
-False | true
-False | False
+True | True
+false | false
+True | True
+false | True
+True | false
+True | false
+false | True
+True | True
