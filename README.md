@@ -1,4 +1,4 @@
-Evon Anthony Hormozy's Systematis.
+The systematis of Evon Anthony Hormozy.
 
 It is designed for the Earth (Known as a Planet) that Evon Anthony Hormozy was born in.
 
